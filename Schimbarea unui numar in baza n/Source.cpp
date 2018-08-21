@@ -125,8 +125,11 @@ int main()
 	int nrInBaza2;
 	std::cin >> nr;
 	std::cin >> nrInBaza2;
+	std::cout << std::endl;
+	std::cout << std::endl;
 	
 	std::cout << "Numarul in baza 2"<<std::endl;
+	std::cout<<std::endl;
 
 	Baza2(nr);
 	std::cout << std::endl;
